@@ -8,22 +8,22 @@
 
 
 
-## **İçindekiler**
+## **İçindekiler (Contents)**
 
-0. Sunuş
-1. TAP (Test Analysis Program) Nedir?
-2. TAP'ı İndirme ve Çalıştırma
-3. TAP Menüsü
-4. Test Verisi Girişi
-5. Optik Okuyucudan Alınan Verinin Excel Yardımıyla TAP'a Yüklenmesi
-6. SPSS Dosyasındaki Verinin Excel Yardımıyla TAP'a Yüklenmesi
-7. R'daki Verinin TAP'a Yüklenmesi
-8. Belirtke Tablosu Oluşturulması
-9. Rastgele (Random) Test Verisi Üretme
-10. Hızlı Analiz Sonuçlarını Görüntüleme
-11. Analiz Sonrası Öğrenci Çıktılarını Görüntüleme
-12. Analiz Sonrası Madde Analizi Sonuçlarını Görüntüleme
-13. Analiz Sonrası Seçenek Analizi Sonuçlarını Görüntüleme
-14. Analiz Sonrası Not Raporlarını Görüntüleme
-15. Analiz Sonrası Test İstatistiklerini Görüntüleme
-16. Analiz Çıktılarını Kaydetme
+0. Sunuş [Preface]
+1. TAP (Test Analysis Program) Nedir? [What is TAP (Test Analysis Program)?]
+2. TAP'ı İndirme ve Çalıştırma [Downloading and Running TAP]
+3. TAP Menüsü [TAP Menu]
+4. Test Verisi Girişi [Test Data Entry]
+5. Optik Okuyucudan Alınan Verinin Excel Yardımıyla TAP'a Yüklenmesi [Uploading Data from Optical Scanners to TAP Using Excel]
+6. SPSS Dosyasındaki Verinin Excel Yardımıyla TAP'a Yüklenmesi [Uploading Data from SPSS Files to TAP Using Excel]
+7. R'daki Verinin TAP'a Yüklenmesi [Importing Data from R into TAP]
+8. Belirtke Tablosu Oluşturulması [Constructing a Table of Specifications]
+9. Rastgele (Random) Test Verisi Üretme [Generating Random Test Data]
+10. Hızlı Analiz Sonuçlarını Görüntüleme [Displaying Quick Analysis Results]
+11. Analiz Sonrası Öğrenci Çıktılarını Görüntüleme [Displaying Student Outputs After Analysis]
+12. Analiz Sonrası Madde Analizi Sonuçlarını Görüntüleme [Displaying Item Analysis Results After Analysis]
+13. Analiz Sonrası Seçenek Analizi Sonuçlarını Görüntüleme [Displaying Option Analysis Results After Analysis]
+14. Analiz Sonrası Not Raporlarını Görüntüleme [Displaying Grade Reports After Analysis]
+15. Analiz Sonrası Test İstatistiklerini Görüntüleme [Displaying Test Statistics After Analysis]
+16. Analiz Çıktılarını Kaydetme [Saving Analysis Outputs]
