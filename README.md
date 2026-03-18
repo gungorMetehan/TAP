@@ -28,3 +28,10 @@
 14. Analiz Sonrası Not Raporlarını Görüntüleme [Displaying Grade Reports After Analysis]
 15. Analiz Sonrası Test İstatistiklerini Görüntüleme [Displaying Test Statistics After Analysis]
 16. Analiz Çıktılarını Kaydetme [Saving Analysis Outputs]
+
+## **Değişiklik Geçmişi (Revision History)**
+
+| **Baskı (Edition)** | **Değişiklikler (Revisions)** | **Tarih (Date)** |
+|---|---|---|
+| Baskı 1 | İlk yayım. | Ekim 2024 |
+| Baskı 2 | 2, 5, 6, 7, 8, 12 ve 15. Bölüm'deki küçük yazım ve dizgi hataları düzeltildi. | Mart 2026 |
