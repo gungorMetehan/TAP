@@ -3,10 +3,12 @@
 
 ![TAP_cover](https://github.com/user-attachments/assets/b62b41b7-89fe-41d5-8284-cd9baa38415b)
 
-**ISBN:** 978-625-6135-12-3 | **I. Baskı (First Edition):** Ekim (October) 2024, Ankara
+**ISBN:** 978-625-6135-12-3
 
-[**Güngör, M.** (2024). _Tüm yönleri ile TAP (Test Analysis Program): Test ve madde analizi_. Pegem Akademi.](https://pegem.net/urun/Tum-Yonleri-ile-TAP-Test-Analysis-Program-Test-ve-Madde-Analizi/292333) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
+**I. Baskı (First Edition):** Ekim (October) 2024, Ankara | **II. Baskı (Second Edition):** Mart (March) 2026, Ankara
 
+* [**Güngör, M.** (2026). _Tüm yönleri ile TAP (Test Analysis Program): Test ve madde analizi_ (2. Baskı). Pegem Akademi.](https://pegem.net/urun/Tum-Yonleri-ile-TAP-Test-Analysis-Program-Test-ve-Madde-Analizi/292333) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
+* [**Güngör, M.** (2024). _Tüm yönleri ile TAP (Test Analysis Program): Test ve madde analizi_ (1. Baskı). Pegem Akademi.](https://pegem.net/urun/Tum-Yonleri-ile-TAP-Test-Analysis-Program-Test-ve-Madde-Analizi/292333) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
 
 
 ## **İçindekiler (Contents)**
